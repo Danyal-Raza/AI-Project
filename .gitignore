@@ -13,3 +13,6 @@ env/
 # Model files
 *.joblib
 *.pkl
+
+# Ignore all CSV files
+*.csv
