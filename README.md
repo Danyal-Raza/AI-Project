@@ -1,4 +1,4 @@
-# Phishing URL Detection: Setup Guide 🛡️
+# Real-Time Phishing: Setup Guide 🛡️
 
 Follow these steps to reproduce the training in Google Colab, set up the Flask API, and use the browser extension.
 
