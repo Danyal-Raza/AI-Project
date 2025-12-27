@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Real-Time Phishing",
+  "version": "1.0",
+  "permissions": ["notifications"],
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"]
+  }]
+}
